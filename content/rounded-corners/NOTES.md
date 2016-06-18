@@ -8,3 +8,4 @@
   - Reduce the size of the original shape.
   - Select both shapes
   - "Item > Path tools > Path operations" and choose the "Insersection" operation.
+  - Convert the shape to the type of frame you need: "Item > Convert to... > ..."
